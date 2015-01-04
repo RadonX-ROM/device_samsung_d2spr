@@ -22,3 +22,8 @@ DEVICE_PACKAGE_OVERLAYS += device/samsung/d2spr/overlay
 
 # Inherit from d2-common
 $(call inherit-product, device/samsung/d2-common/d2-common.mk)
+
+PRODUCT_COPY_FILES += \
+    device/samsung/d2spr/rootdir/etc/init.d/99d2spr:system/etc/init.d/99d2spr \
+    device/samsung/d2spr/rootdir/etc/eri-sprint.xml:system/etc/eri-sprint.xml \
+    device/samsung/d2spr/rootdir/data/d2spr-firstboot.sh:system/d2spr-firstboot.sh
