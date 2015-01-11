@@ -24,10 +24,10 @@
         "revision": "cm-12.0"
     },
     {
-        "remote": "cm",
-        "repository": "android_kernel_samsung_d2",
+        "remote": "gh",
+        "repository": "RelayTest/B14CKB1RD_Kernel_D2",
         "target_path": "kernel/samsung/d2",
-        "revision": "cm-12.0"
+        "revision": "lollipop"
     },
     {
         "remote": "tm",
