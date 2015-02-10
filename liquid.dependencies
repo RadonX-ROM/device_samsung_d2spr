@@ -24,12 +24,6 @@
         "revision": "cm-12.0"
     },
     {
-        "remote": "gh",
-        "repository": "mtb3000gt/linaro-4.9.3",
-        "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi-4.9-linaro",
-        "revision": "lollipop"
-    },
-    {
         "remote": "bb",
         "repository": "gideonx/bms-jb-3.4.y",
         "target_path": "kernel/samsung/d2",
