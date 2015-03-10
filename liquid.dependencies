@@ -24,10 +24,10 @@
         "revision": "cm-12.0"
     },
     {
-        "remote": "bb",
-        "repository": "gideonx/bms-jb-3.4.y",
+        "remote": "lsd",
+        "repository": "android_kernel_samsung_d2",
         "target_path": "kernel/samsung/d2",
-        "revision": "cm-12.0"
+        "revision": "lollipop"
     },
     {
         "remote": "tm",
