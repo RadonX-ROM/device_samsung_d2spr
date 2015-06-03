@@ -1,9 +1,9 @@
 [
     {
-        "remote": "cm",
+        "remote": "th",
         "repository": "android_device_samsung_d2-common",
         "target_path": "device/samsung/d2-common",
-        "revision": "cm-12.1"
+        "revision": "lp-mr1"
     },
     {
         "remote": "cm",
