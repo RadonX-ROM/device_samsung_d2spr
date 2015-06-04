@@ -18,7 +18,7 @@
         "revision": "cm-12.1"
     },
     {
-        "remote": "tb",
+        "remote": "cm",
         "repository": "android_hardware_samsung",
         "target_path": "hardware/samsung",
         "revision": "cm-12.1"
